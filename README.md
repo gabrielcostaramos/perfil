@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Perfil é cartão de visitas online.
+O Perfil é um cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://gabrielcostaramos.github.io/perfil/)
 
